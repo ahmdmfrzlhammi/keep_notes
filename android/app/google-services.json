@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509492408638",
+    "project_id": "flutterkeep-f9b1a",
+    "storage_bucket": "flutterkeep-f9b1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509492408638:android:0adc31e0c9dedbb11efc6f",
+        "android_client_info": {
+          "package_name": "com.example.keepnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qjjrNy51RUdYrcSUMKbYzCxPqAKkCPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
